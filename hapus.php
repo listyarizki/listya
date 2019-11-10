@@ -7,3 +7,5 @@ if ($menjalankan) {
   header('location: index.php');
 }
 echo $menjalankan;
+
+// dari bayu
